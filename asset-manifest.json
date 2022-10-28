@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Currency/static/css/main.78f8df10.css",
+    "main.js": "/Currency/static/js/main.f24a09eb.js",
+    "static/media/5.jpg": "/Currency/static/media/5.d7b18939a5519daed127.jpg",
+    "static/media/10.jpg": "/Currency/static/media/10.a750776207ac1951b9f4.jpg",
+    "static/media/2000.jpg": "/Currency/static/media/2000.c59e49c228702735ebd8.jpg",
+    "static/media/200.jpg": "/Currency/static/media/200.6889f58db8570c1b3cb8.jpg",
+    "static/media/50.jpg": "/Currency/static/media/50.d03d836d4de77285f3e6.jpg",
+    "static/media/1.jpg": "/Currency/static/media/1.4bbe83bf980d9a1da3d7.jpg",
+    "static/media/500.jpg": "/Currency/static/media/500.cd7d9a2099616474877f.jpg",
+    "static/media/20.jpg": "/Currency/static/media/20.8787a573b2b4f6afc5e9.jpg",
+    "static/media/100.jpeg": "/Currency/static/media/100.aaf0ba343cd93b404c20.jpeg",
+    "index.html": "/Currency/index.html",
+    "main.78f8df10.css.map": "/Currency/static/css/main.78f8df10.css.map",
+    "main.f24a09eb.js.map": "/Currency/static/js/main.f24a09eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f8df10.css",
+    "static/js/main.f24a09eb.js"
+  ]
+}
